@@ -2,9 +2,5 @@
   {
     "package": "LDATS",
     "oncran": true
-  },
-  {
-    "package": "portalr",
-    "oncran": true
   }
 ]
