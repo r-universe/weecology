@@ -1,10 +1,10 @@
 [
   {
-    "package": "LDATS",
+    "package": "portalr",
     "oncran": true
   },
   {
-    "package": "portalr",
+    "package": "LDATS",
     "oncran": true
   }
 ]
